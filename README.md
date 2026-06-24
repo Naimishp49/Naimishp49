@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naimishp49
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently working .net tech
 - 💞️ I’m looking to collaborate on complex problems
 
 <!---
